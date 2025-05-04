@@ -105,7 +105,7 @@ All official Mento stablecoins on Celo:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/local-pay-app.git
+git clone https://github.com/DeshaDev/localpay.git
 cd local-pay-app
 ```
 
@@ -154,9 +154,3 @@ We welcome contributions! Please follow these steps:
 ## License
 
 MIT
-
-## Support
-
-- [Telegram Community](https://t.me/localpayapp)
-- [GitHub Issues](https://github.com/yourusername/local-pay-app/issues)
-- [Documentation](https://docs.localpay.app)
